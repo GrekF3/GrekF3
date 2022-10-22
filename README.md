@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/798oH0WDEQnicM4857/giphy.gif" width="100"/>
+</div>
+
+
 ### :fire: Моя статистика :
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GrekF3&theme=github_dark) 
