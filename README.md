@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/pWLSXjkAv1c1gwCB4E/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/pWLSXjkAv1c1gwCB4E/giphy.gif" width="255"/>
   <div id="badges">
   <a href="linkedin.com/GrekF3">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
