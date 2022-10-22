@@ -3,7 +3,7 @@
 <h3 align="center">Backend-Developer from Russia🇺</h3>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GrekF3&no-bg=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=GrekF3&no-bg=False)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrekF3&layout=compact)](https://github.com/GrekF3/github-readme-stats)
