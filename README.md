@@ -12,7 +12,7 @@
 
 
 <div id="main" align="center">
-### :fire: Моя статистика :
+:fire: Моя статистика :
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GrekF3&theme=github_dark) 
 
