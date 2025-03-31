@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/pWLSXjkAv1c1gwCB4E/giphy.gif" width="250"/>
   
-  <h1>Привет, я Grek 👨‍💻</h1>
+  <h1>Привет, я GrekF3 👨‍💻</h1>
   <h3>Python-разработчик | Автоматизация | Telegram Bots | Backend Engineering</h3>
 
   <div id="badges">
