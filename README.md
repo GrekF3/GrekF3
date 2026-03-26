@@ -54,7 +54,7 @@ I design and build web systems from architecture to production.
 
 ---
 
-## ⚙️ Featured Project
+## ⚙️ Featured Projects
 
 <table>
   <tr>
@@ -64,21 +64,17 @@ I design and build web systems from architecture to production.
 
 ### Leading development of a production platform
 
-At **Beatprod**, I lead development across both backend and frontend, shipping product features, improving infrastructure, and scaling the platform for real users.
+At **Beatprod**, I lead development across backend and frontend, shipping product features, improving platform architecture, and scaling the system for real business use.
 
 **What I’m responsible for:**
 - end-to-end feature delivery
-- backend system design and APIs
-- frontend architecture and UX implementation
-- internal platform improvements
-- reliability, performance, and maintainability
-- automation flows and product integrations
+- backend architecture and API design
+- frontend implementation and product UX
+- platform reliability and maintainability
+- internal improvements and automation flows
 
-**Product focus:**
-- scalable architecture
-- stable releases
-- operational efficiency
-- business-oriented development
+**Focus:**  
+Scalable architecture, stable releases, operational efficiency, and business-oriented development.
 
 **Stack:**  
 Next.js · React · TypeScript · Python · Django / Flask · PostgreSQL · Docker · Nginx
@@ -87,7 +83,71 @@ Next.js · React · TypeScript · Python · Django / Flask · PostgreSQL · Dock
 
 </td>
 <td width="45%" align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="Beatprod Preview" width="100%" />
+  <img src="./assets/projects/beatprod.png" alt="Beatprod Preview" width="100%" />
+</td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td width="55%" valign="top">
+
+## Luvio
+
+### Dating platform focused on user experience and product scalability
+
+**Luvio** is a modern dating platform built around user interaction, profile systems, matching flows, and a scalable product foundation.
+
+**Key areas:**
+- product architecture and feature development
+- frontend interfaces for user interaction
+- backend logic for profiles, matching, and engagement flows
+- scalable platform structure for future growth
+- focus on usability, retention, and product consistency
+
+**Focus:**  
+A social product where performance, UX, and scalable architecture are equally important.
+
+**Stack:**  
+Next.js · React · TypeScript · Python · PostgreSQL · Docker
+
+</td>
+<td width="45%" align="center">
+  <img src="./assets/projects/luvio.png" alt="Luvio Preview" width="100%" />
+</td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td width="55%" valign="top">
+
+## Autoreels
+
+### Marketing automation system for Instagram operations via Telegram
+
+**Autoreels** is an automation platform built to streamline marketing workflows for Instagram through a Telegram-based control system.
+
+**Key areas:**
+- centralized control through Telegram bot workflows
+- automation of content and engagement operations
+- multi-account management and bulk actions
+- scheduling, orchestration, and repetitive task execution
+- backend logic for scalable workflow handling and system reliability
+
+**Focus:**  
+Reducing manual work in social media operations by turning repetitive marketing processes into structured automation flows.
+
+**Stack:**  
+Python · Django / Flask · Telegram Bot API · PostgreSQL · Docker · APIs
+
+</td>
+<td width="45%" align="center">
+  <img src="./assets/projects/autoreels.png" alt="Autoreels Preview" width="100%" />
 </td>
   </tr>
 </table>
