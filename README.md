@@ -83,7 +83,7 @@ Next.js · React · TypeScript · Python · Django / Flask · PostgreSQL · Dock
 
 </td>
 <td width="45%" align="center">
-  <img src="./assets/projects/beatprod.png" alt="Beatprod Preview" width="100%" />
+  <img src="./assets/beatprod.jpg" alt="Beatprod Preview" width="100%" />
 </td>
   </tr>
 </table>
@@ -115,7 +115,7 @@ Next.js · React · TypeScript · Python · PostgreSQL · Docker
 
 </td>
 <td width="45%" align="center">
-  <img src="./assets/projects/luvio.png" alt="Luvio Preview" width="100%" />
+  <img src="./assets/luvio.jpg" alt="Luvio Preview" width="100%" />
 </td>
   </tr>
 </table>
@@ -147,7 +147,7 @@ Python · Django / Flask · Telegram Bot API · PostgreSQL · Docker · APIs
 
 </td>
 <td width="45%" align="center">
-  <img src="./assets/projects/autoreels.png" alt="Autoreels Preview" width="100%" />
+  <img src="./assets/autoreels.jpg" alt="Autoreels Preview" width="100%" />
 </td>
   </tr>
 </table>
