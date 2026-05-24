@@ -70,7 +70,7 @@ The important part: private keys and seed phrases stay on the device.
 
   </td>
   <td width="42%" valign="top" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GrekF3&repo=Silent-Wallet&theme=github_dark&hide_border=true" width="100%" alt="Silent Wallet repository card" />
+    <img src="./assets/silent-wallet.jpg" width="100%" alt="Silent Wallet website preview" />
   </td>
   </tr>
 </table>
