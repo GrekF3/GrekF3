@@ -30,7 +30,7 @@ I build products where the boring parts matter: auth, APIs, queues, deployment, 
 
 Most of my recent work is private production code, so the public profile is a distilled version of the real work: web platforms, automation services, crypto tooling, Telegram-based systems, market screeners, content pipelines, and internal dashboards.
 
-- Based in Krasnodar
+- Based in Bali/Thailand
 - 80+ own repositories: mostly Python, TypeScript, JavaScript, HTML/CSS
 - Strongest stack: Python, Django, DRF, FastAPI, Next.js, React, TypeScript, PostgreSQL, Redis, Docker, Nginx
 - Main interests: automation, marketplaces, bot platforms, Web3, AI-assisted workflows, and systems that replace repetitive manual work
