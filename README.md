@@ -1,80 +1,56 @@
-<div align="center">
+# Nikita Petrov / GrekF3
 
-  <h1>Nikita / GrekF3</h1>
-  <h3>Full-stack Developer · Automation Engineer · Product Builder</h3>
+**Lead Full-stack Developer**
 
-  <p>Python-first backend, Next.js interfaces, automation, integrations, and production systems.</p>
+I lead product development from architecture to launch and ongoing operation. I build web platforms and automate business processes across sales, customer support, CRM, content and financial operations.
 
-  <p>
-    <a href="https://grekf3.github.io/">Portfolio</a>
-    ·
-    <a href="https://t.me/GrekF3">Telegram</a>
-  </p>
+[Portfolio](https://grekf3.github.io/) · [Telegram](https://t.me/GrekF3)
 
-  <sub>Ало, это число? Нет, это строка.</sub>
+## Selected products
 
-</div>
+### [Itemix](https://itemix.co/)
 
-## Selected work
+Lead Full-stack Developer at **ITEMIX TECH LTD**.
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
+Digital goods marketplace with a storefront, seller accounts and an operations console. I built supplier integrations, catalog synchronization, payment and order workflows, and tools for managers to handle support and email.
 
-### Silent Wallet
+### [Luvio](https://luvio.club/)
 
-Open-source self-custodial wallet for ETH, BTC, BNB Chain, and Solana. The application includes local encryption, desktop and mobile packaging, transaction history, testnets, watch-only mode, and provider integrations.
+Lead Full-stack Developer at **LUVIO CLUB LIMITED**.
 
-**Stack:** Next.js · React · TypeScript · Tauri · Capacitor
+Dating platform with onboarding, profiles, discovery, matching and real-time chat. I implemented AI conversations, background communication workflows, notifications and moderation tools.
 
-[Repository](https://github.com/GrekF3/Silent-Wallet)
+### [Beatprod](https://beatprod.com/)
 
-  </td>
-  <td width="42%" valign="top" align="center">
-    <img src="./assets/silent-wallet.jpg" width="100%" alt="Silent Wallet website preview" />
-  </td>
-  </tr>
-</table>
+Own product. Lead Full-stack Developer.
 
-<br>
+Music marketplace with automated payments, file and license delivery, subscriptions and revenue sharing. I built audio analysis and AI content tools, video generation and YouTube publishing.
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
+### [Silent Wallet](https://swallet.site/)
 
-### Beatprod
+Own product. Lead Full-stack Developer.
 
-Production platform for producers and artists. My work spans backend, frontend, product flows, integrations, deployment, and operational reliability.
+Open-source self-custodial wallet with account management, transfers, portfolio tracking and transaction history. The project includes local key storage, swap and bridge integrations, a web app, and desktop and mobile shells. Currently in beta.
 
-**Stack:** Python · React · TypeScript · PostgreSQL · Docker · Nginx
+[Source code](https://github.com/GrekF3/Silent-Wallet) · [Web app](https://app.swallet.site/)
 
-[Live project](https://beatprod.com/)
+## Business automation
 
-  </td>
-  <td width="42%" valign="top" align="center">
-    <img src="./assets/beatprod.jpg" width="100%" alt="Beatprod website preview" />
-  </td>
-  </tr>
-</table>
+- **theOne News:** collects articles and posts from websites, news feeds, Telegram, Facebook and Instagram, including through browser automation. Deduplication, moderation, translation and AI rewriting prepare stories for editors to review and publish.
+- **CRM workflows:** customer record updates, deduplication, assignment and spreadsheet synchronization while preserving managers' notes.
+- **Crypto operations:** trading terminals, market scanners, strategy automation, position monitoring and risk controls.
 
-## What I build
+## Stack
 
-- Product platforms with authentication, APIs, admin tools, payments, and deployment
-- Automation systems with bots, background workers, scheduled jobs, parsers, and alerts
-- AI-assisted workflows with source processing, review steps, and operator controls
-- Infrastructure with PostgreSQL, Redis, Docker, Nginx, monitoring, and release routines
+- **Backend:** Python, Django, Django REST Framework, FastAPI, PostgreSQL, Redis, Celery.
+- **Frontend:** TypeScript, React, Next.js.
+- **Integrations:** REST API, WebSocket, Telegram Bot API, OpenAI API, Playwright.
+- **Delivery:** Docker, Nginx, GitHub Actions, Tauri, Capacitor.
 
-## Core stack
+## GitHub activity
 
-`Python` `Django` `FastAPI` `Next.js` `React` `TypeScript` `PostgreSQL` `Redis` `Docker` `Nginx`
-
-## Working principles
-
-- Keep business rules explicit.
-- Automate work that keeps returning.
-- Ship with observable behavior and a recovery path.
-- Prefer useful systems over disposable prototypes.
+![GitHub activity from public account data](https://grekf3.github.io/assets/github-activity.svg)
 
 ## Contact
 
-[Telegram](https://t.me/GrekF3) · [Portfolio](https://grekf3.github.io/)
+For product development and business automation: [@GrekF3 on Telegram](https://t.me/GrekF3).
