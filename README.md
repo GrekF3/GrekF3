@@ -49,7 +49,7 @@ Open-source self-custodial wallet with account management, transfers, portfolio 
 
 ## GitHub activity
 
-![GitHub contribution calendar for GrekF3](https://ghchart.rshah.org/376748/GrekF3)
+[![GitHub contribution calendar for GrekF3](https://ghchart.rshah.org/376748/GrekF3)](https://github.com/GrekF3)
 
 ## Contact
 
